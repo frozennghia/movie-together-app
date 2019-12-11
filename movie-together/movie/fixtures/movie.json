@@ -1,0 +1,23 @@
+[
+    {
+        "model": "movie.movie",
+        "pk": 1,
+        "fields":{
+            "movie_id": "55",
+            "title": "Sample at the museum",
+            "description": "A sample movie",
+            "rating": "5.5"
+        }
+    },
+
+    {
+        "model": "movie.movie",
+        "pk": 2,
+        "fields":{
+            "movie_id": "33",
+            "title": "Dark Sample",
+            "description": "A better sample movie",
+            "rating": "6.5"
+        }
+    }
+]
